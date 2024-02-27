@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(410,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(411,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(414,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(415,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(416,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(417,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(422,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(477,12): warning C4101: 'rotation1': unreferenced local variable
+C:\Users\Fox\source\repos\CS330 Project\Source.cpp(478,12): warning C4101: 'rotation2': unreferenced local variable
+  CS330 Project.vcxproj -> C:\Users\Fox\source\repos\CS330 Project\Debug\CS330 Project.exe
